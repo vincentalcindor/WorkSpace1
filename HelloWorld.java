@@ -2,8 +2,8 @@ public class HelloWorld {
 
 	public static void main(String[] args){
 
-	system.out.println("Hello World");
-	system.out.println("Changed in GIT");	
+	System.out.println("Hello World");
+	System.out.println("Changed in GIT");	
 
 	}
 }
